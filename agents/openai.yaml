@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研设备极简矢量插画"
+  short_description: "保持原图视角，将科研设备转成纯色块、规则线条的论文级极简矢量风格插图"
+  default_prompt: "使用 $科研设备极简矢量插画 将我提供的设备参考图转成可供 PPT 复刻和 Illustrator 描摹的极简 2D 扁平插画，保持原始视角，删除微小结构与光影。"
